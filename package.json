@@ -1,0 +1,25 @@
+{
+    "name": "venderjs",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "nodemon ./src/index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@truffle/contract": "^4.5.15",
+        "body-parser": "^1.20.0",
+        "cors": "^2.8.5",
+        "crypto-js": "^4.1.1",
+        "dotenv": "^16.0.1",
+        "express": "^4.18.1",
+        "keccak256": "^1.0.6",
+        "mongodb": "^4.7.0",
+        "socket.io": "^4.5.1",
+        "web3": "^1.7.4"
+    }
+}

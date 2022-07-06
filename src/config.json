@@ -1,0 +1,6 @@
+{
+    "db_name": "blockchain",
+    "username": "root",
+    "password": "example",
+    "contractABI": "./contracts/LicenseToken.json"
+}
